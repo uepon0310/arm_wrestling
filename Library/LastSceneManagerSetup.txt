@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/arm_wrestling.unity
+  isLoaded: 1
+  isActive: 1
